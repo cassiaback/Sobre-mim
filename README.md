@@ -1,6 +1,5 @@
 # 👋 Olá!  
-Eu sou a Cássia, apaixonada por tecnologia, aprendizado contínuo e desafios.
-Esse repositório faz parte da minha jornada de aprendizado e contém minhas anotações, ideias e projetos iniciais.
+Eu sou a Cássia, apaixonada por tecnologia, aprendizado contínuo e desafios. Esse repositório faz parte da minha jornada de aprendizado e contém minhas anotações, ideias e projetos iniciais.
 
 🌎 Buscando oportunidades para trabalhar remotamente com projetos incríveis  
 🎯 Objetivo: crescer como desenvolvedora e contribuir com a comunidade tech
