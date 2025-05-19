@@ -1,32 +1,31 @@
-#👋 Olá!
-Eu sou a Cássia, apaixonada por tecnologia, aprendizado contínuo e desafios🌎 Buscando oportunidades para trabalhar remotamente com projetos incríveis🎯 Objetivo: crescer como desenvolvedora e contribuir com a comunidade tech
+# 👋 Olá!  
+Eu sou a Cássia, apaixonada por tecnologia, aprendizado contínuo e desafios.  
+🌎 Buscando oportunidades para trabalhar remotamente com projetos incríveis  
+🎯 Objetivo: crescer como desenvolvedora e contribuir com a comunidade tech
 
-##🎓 Estudando:
-- Inteligência Artificial com foco em Machine Learning
-- Deep Learning
-- NLP
-- Visão Computacional
-- Fundamentos de Matemática para IA
-- Metodologias Ágeis
-- Deploy de Modelos
+## 🎓 Estudando:
 
-##🛠️ Tecnologias e Ferramentas:
+- Inteligência Artificial com foco em Machine Learning  
+- Deep Learning  
+- NLP (Processamento de Linguagem Natural)  
+- Visão Computacional  
+- Fundamentos de Matemática para IA  
+- Metodologias Ágeis  
+- Deploy de Modelos de IA  
 
--Python
--Git
-- Banco de Dados (Relacional e Não Relacional)
-- IA
+## 🛠️ Tecnologias e Ferramentas:
 
-##📌 Projetos em Destaque:
+- Python  
+- Git  
+- Banco de Dados (Relacional e Não Relacional)  
+- IA  
 
-- Projeto 1: Breve descrição do que é esse projeto.
+## 📌 Projetos em Destaque:
 
-- Projeto 2: Outro projeto interessante que você fez ou está fazendo.
+- **Projeto 1**: Breve descrição do que é esse projeto.  
+- **Projeto 2**: Outro projeto interessante que você fez ou está fazendo.  
 
-##📫 Contato:
-- *Linkedin:* [Cassia Back](https://www.linkedin.com/in/c%C3%A1ssia-back-50588b329/)
+## 📫 Contato:
 
-- *Gmail:* [cassiagabrieliback@gmail.com](mailto:cassiagabrieliback@gmail.com)
-
-
-
+- 🔗 [LinkedIn - Cássia Back](https://www.linkedin.com/in/c%C3%A1ssia-back-50588b329/)  
+- 📧 [cassiagabrieliback@gmail.com](mailto:cassiagabrieliback@gmail.com)
